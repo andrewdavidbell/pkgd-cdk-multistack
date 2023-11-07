@@ -1,0 +1,16 @@
+{
+  "name": "mycjsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mycjsapp.js",
+  "scripts": {
+    "build": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mycjsmodule": "workspace:*"
+  }
+}
